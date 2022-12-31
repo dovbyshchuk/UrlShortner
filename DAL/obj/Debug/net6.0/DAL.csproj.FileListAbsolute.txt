@@ -1,0 +1,14 @@
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/bin/Debug/net6.0/DAL.deps.json
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/bin/Debug/net6.0/DAL.runtimeconfig.json
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/bin/Debug/net6.0/DAL.dll
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/bin/Debug/net6.0/DAL.pdb
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/DAL.csproj.AssemblyReference.cache
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/DAL.AssemblyInfoInputs.cache
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/DAL.AssemblyInfo.cs
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/DAL.csproj.CoreCompileInputs.cache
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/DAL.dll
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/refint/DAL.dll
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/DAL.pdb
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/DAL.genruntimeconfig.cache
+/Users/volodymyr/Desktop/Rider Files/UrlShortner/DAL/obj/Debug/net6.0/ref/DAL.dll
